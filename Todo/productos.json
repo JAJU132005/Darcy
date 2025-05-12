@@ -1,0 +1,434 @@
+{
+    "sandwiches": {
+        "imagenes_destacadas": [
+            "img/sandwich/El Consentido.png",
+            "img/sandwich/EL CHARRO.png",
+            "img/sandwich/El Berraco.png"
+        ],
+        "productos": [
+            {
+                "nombre": "EL CONSENTIDO",
+                "descripcion": "POLLO DESMECHADO en salsa especial, salchichón premium de cerdo, tocineta ahumada, queso doble crema, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+                "precio_base": "15.000",
+                "precio_con_papa": "19.000"
+            },
+            {
+                "nombre": "EL ATREVIDO",
+                "descripcion": "LOMO DE CERDO en salsa especial, salchichón premium de cerdo, tocineta ahumada, queso doble crema, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+                "precio_base": "15.000",
+                "precio_con_papa": "19.000"
+            },
+            {
+              "nombre": "EL REVELDE",
+              "descripcion": "LOMO DE RES en salsa especial, salchichón premium de cerdo, tocineta ahumada, queso doble crema, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "15.000",
+              "precio_con_papa": "19.000"
+            },
+            {
+              "nombre": "EL BERRACO",
+              "descripcion": "CARNE DESMECHADA en salsa especial,chorizo parrillero, maiz tierno, salchichón premium de cerdo, tocineta ahumada, queso doble crema, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "17.000",
+              "precio_con_papa": "21.000",
+              "precio_con_Huevo": "19.000"
+            },
+            {
+              "nombre": "GRINGO",
+              "descripcion": "250 GRAMOS DE DELISIOSA CARNE DE HAMBURGUESA ARTESANAL RELLENA DE QUESO DOBLE CREMA, salchichón premium de cerdo, tocineta ahumada, queso doble crema, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "19.000",
+              "precio_con_papa": "23.000",
+              "precio_con_ArosDeCebolla": "19.000"
+            },
+            {
+              "nombre": "FUSION",
+              "descripcion": "TRES PROTEINAS pollo desmechado en salsa especial, lomo de cerdo, lomo de res, doble tocineta ahumada, salchichón premium de cerdo, queso doble crema, deliciosas salsas gourmet, vegetales frescos, pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "19.000",
+              "precio_con_papa": "23.000"
+            },
+            {
+              "nombre": "EL SANTO",
+              "descripcion": "DELICIOSO ATÚN en salsa especial,tomates asado a las finas hierbas, queso fundido, lechuga y salsas gourmet, pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "18.000",
+              "precio_con_papa": "22.000"
+            },
+            {
+              "nombre": "El CHARRO",
+              "descripcion": "DELICIOSA CARNE MOLIDA, salchichón premium de cerdo, maíz tierno, pico de gallo, jalapeños, tostacos picante, tocineta ahumada, deliciosas salsas gourmet, vegetales frescos en pan de finas hierbas y parmesano de 20 cm.",
+              "precio_base": "20.000",
+              "precio_con_papa": "24.000"
+            }
+        ]
+    },
+    "papas": {
+        "imagenes_destacadas": [
+            "img/papas/Papas Consentidas.jpg",
+            "img/papas/Papas Fusión Nueva.jpg",
+            "img/papas/Papas Explosión Nueva.jpg"
+        ],
+        "productos": [
+             {
+                "nombre": "PAPAS FUSION",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de pollo desmechado, lomo de res, lomo de cerdo, chorizo premium, tocineta ahumada, salsas especiales de la casa, queso rallado y queso fundido.",
+                "precio_base": "19.000",
+                "precio_para_dos": "34.000",
+                "precio_para_tres": "50.000"
+            },  
+            {
+                "nombre": "PAPAS EXPLOSION",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de pollo desmechado,carne desmechada, lomo de res, lomo de cerdo, maiz tierno, chorizo premium, tocineta ahumada, salsas especiales de la casa, queso rallado, queso fundido y aros de cebolla.",
+                "precio_base": "23.000",
+                "precio_para_dos": "40.000",
+                "precio_para_tres": "55.000"
+            },        
+            {
+                "nombre": "PAPAS CONSENTIDAS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de pollo desmechado, maiz tierno, chorizo premium, tocineta ahumada, salsas especiales de la casa, queso rallado y queso cheddar.",
+                "precio_base": "18.000",
+                "precio_para_dos": "30.000",
+                "precio_para_tres": "45.000"
+            },        
+            {
+                "nombre": "PAPAS CHARRAS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de carne molida, maiz tierno, pico de gallo, tocineta ahumada, jalapeño, queso rallado, queso fundido y tostacos.",
+                "precio_base": "20.000",
+                "precio_para_dos": "35.000",
+                "precio_para_tres": "50.000"
+            },        
+            {
+                "nombre": "PAPAS GRINGAS CARNIVORAS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de carne de hamburguesa, queso fundido, queso rallado, tocineta ahumada, salsas especiales de la casa.",
+                "precio_base": "19.000"
+            },        
+            {
+                "nombre": "PAPAS COQUETAS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de tocineta ahumada, queso fundido, queso rallado, salsas especiales de la casa y piña caramelizada.",
+                "precio_base": "16.000"
+            },        
+            {
+                "nombre": "SALCHIPAPA",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de salchica americana, salsas especiales de la casa, queso rallado y queso fundido.",
+                "precio_base": "16.000"
+            },        
+            {
+                "nombre": "SALCHIPAPA YACHOS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de salchica americana, salsa bbq, cebolla grillé, tocineta ahumada, salsas gourmet, queso rallado, queso fundido y piña caramelizada de la casa.",
+                "precio_base": "18.000"
+            },        
+            {
+                "nombre": "CHORIPAPA",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de chorizo parrillero, salsas especiales de la casa, queso rallado y queso fundido.",
+                "precio_base": "15.000"
+            },        
+            {
+                "nombre": "CHORIPAPA YACHOS",
+                "descripcion": "DELICIOSAS PAPAS A LA FANCESA acompañadas de chorizo parrillero, salsa bbq, cebolla grillé, tocineta ahumada, salsas gourmet, queso rallado, queso fundido y piña caramelizada de la casa.",
+                "precio_base": "18.000"
+            }      
+        ]
+    },
+    "hamburguesas": {
+        "imagenes_destacadas": [
+            "img/hamburguesas/La Atrevida.jpg",
+            "img/hamburguesas/La Rebelde.jpg",
+            "img/hamburguesas/La Berraca Nueva.jpg"
+        ],
+        "productos": [
+            {
+                "nombre": "LA YACHOS",
+                "descripcion": "150 gramos de carne de res artesanal, queso doble crema, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+                "precio_base": "17.000"
+            },
+            {
+              "nombre": "LA CONSENTIDA",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, pollo desmechado en salsa especial de la casa, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "20.000"
+            },
+            {
+              "nombre": "LA ATREVIDA",
+              "descripcion": "1150 gramos de carne de res artesanal, queso doble crema, lomo de cerdo en salsa especial de la casa, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "20.000"
+            },
+            {
+              "nombre": "LA REBELDE",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, lomo de res en salsa especial de la casa, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "20.000"
+            },
+            {
+              "nombre": "LA AMBICIOSA",
+              "descripcion": "Doble carne de 150 gramos de carne de res artesanal, queso doble crema, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "23.000"
+            },
+            {
+              "nombre": "LA ORGULLOSA",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, aros de cebolla, doble tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "21.000"
+            },
+            {
+              "nombre": "LA BERRACA",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, carne desmechada en salsa especial de la casa, Maíz tierno, Chorizos, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "24.000"
+            },
+            {
+              "nombre": "LA VALIENTE",
+              "descripcion": "Doble carne de 150 gramos de carne de res artesanal, queso doble crema, pollo desmechado, en salsa especial de la casa, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "27.000"
+            },
+            {
+              "nombre": "LA PODEROSA",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, pollo desmechado, en salsa especial de la casa, aros de cebolla, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "25.000"
+            },
+            {
+              "nombre": "LA INIGUALABLE",
+              "descripcion": "Doble carne de 150 gramos de carne de res artesanal, queso doble crema, aros de cebolla, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "26.000"
+            },
+            {
+              "nombre": "LA CAPRICHOSA sencilla",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, pollo desmechado en salsa especial de la casa, Carne desmechada, maíz tierno, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "27.000"
+            },
+            {
+              "nombre": "LA CAPRICHOSA doble",
+              "descripcion": "Doble carne de 150 gramos de carne de res artesanal, queso doble crema, pollo desmechado en salsa especial de la casa, Carne desmechada, maíz tierno, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "32.000"
+            },
+             {
+              "nombre": "LA CHARRA",
+              "descripcion": "150 gramos de carne de res artesanal, queso doble crema, carne desmechado, jalapeños, pico de gallo, tostacos, tocineta ahumada, vegetales frescos (lechuga, tomate, cebolla grillé), en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "27.000"
+            },
+            {
+              "nombre": "LA INSACIABLE",
+              "descripcion": "Doble carne de 150 gramos de carne de res artesanal, pollo desmechado en salsa especial de la casa, Carne desmechada, lomo de cerdo, maíz tierno, doble tocineta ahumada, vegetales frescos y salsas de la casa en pan brioche premium, incluye papas a la francesa.",
+              "precio_base": "38.000"
+            }
+        ]
+    },
+    "perros": {
+        "imagenes_destacadas": [
+            "img/perros/Perro Consentido.png",
+            "img/perros/Perro Fusion.jpg",
+            "img/perros/Perro Atrevido.jpg"
+        ],
+        "productos": [
+              
+            {
+              "nombre": "PERRO TRADICIONAL",
+              "descripcion": "SALCHICHA AMERICANA, tocineta ahumada, queso rallado, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "14000",
+              "precio_con_papa": "18.000"
+            },
+            {
+              "nombre": "PERRO CONSENTIDO",
+              "descripcion": "SALCHICHA AMERICANA, pollo desmechado en salsa especial, tocineta ahumada, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "16.000",
+              "precio_con_papa": "20.000"
+            },
+            {
+              "nombre": "PERRO ATREVIDO",
+              "descripcion": "SALCHICHA AMERICANA, lomo de cerdo en salsa especial, tocineta ahumada, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "16.000",
+              "precio_con_papa": "20.000"
+            },
+            {
+              "nombre": "PERRO REBELDE",
+              "descripcion": "SALCHICHA AMERICANA, lomo de res en salsa especial, tocineta ahumada, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "16.000",
+              "precio_con_papa": "20.000"
+            },
+            {
+              "nombre": "PERRO FUSION",
+              "descripcion": "SALCHICHA AMERICANA, pollo desmechado en salsa especial, lomo de cerdo, lomo de res, tocineta ahumada, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "19.000",
+              "precio_con_papa": "23.000"
+            },
+            {
+              "nombre": "PERRO BERRACO",
+              "descripcion": "SALCHICHA AMERICANA, carne desmechada, chorizo, maíz tierno, en salsa especial, tocineta ahumada, queso fundido, papita molida en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "19.000",
+              "precio_con_papa": "23.000"
+            },
+            {
+              "nombre": "PERRO CHARRO",
+              "descripcion": "SALCHICHA AMERICANA, carne molida en salsa especial, jalapeños, pico de gallo, tocineta ahumada, queso fundido, papita molida, tostacos, en salsa tártara y nuestras deliciosas salsas de la casa.",
+              "precio_base": "19.000",
+              "precio_con_papa": "23.000"
+            },
+            {
+              "nombre": "PERRO TIERNO",
+              "descripcion": "SALCHICHA AMERICANA papita molida en salsa tártara, pollo desmechado en salsa especial, maíz tierno, tocineta ahumada, queso fundido y nuestras deliciosas salsas de la casa.",
+              "precio_base": "18.000",
+              "precio_con_papa": "22.000"
+            }
+        
+        ]
+    },
+    "carnes": {
+        "productos": [
+            {
+                "nombre": "CHATAS",
+                "descripcion": "CHATAS 250 gramos compañado con papas a la francesa, ensalada y cebollitas picantes.",
+                "precio_base": "25.000"
+            },
+            {
+                "nombre": "PECHUGA",
+                "descripcion": "PECHUGA 250 gramos compañado con papas a la francesa, ensalada y cebollitas picantes.",
+                "precio_base": "25.000"
+            }
+        ]
+    },
+    "burritos": {
+        "productos": [
+            {
+                "nombre": "Burrito - Pollo desmechado",
+                "descripcion": "Tortilla mexicana, lechuga, tomate, maíz tierno, deliciosas salsas de la casa. Escoge tu proteína: Pollo desmechado",
+                "precio_base": "15.000",
+                "precio_con_papa": "19.000"
+            },
+            {
+                "nombre": "Burrito - Lomo de cerdo",
+                "descripcion": "Tortilla mexicana, lechuga, tomate, maíz tierno, deliciosas salsas de la casa. Escoge tu proteína: Lomo de cerdo",
+                "precio_base": "15.000",
+                "precio_con_papa": "19.000"
+            },
+            {
+                "nombre": "Burrito - Lomo de res",
+                "descripcion": "Tortilla mexicana, lechuga, tomate, maíz tierno, deliciosas salsas de la casa. Escoge tu proteína: Lomo de res",
+                "precio_base": "15.000",
+                "precio_con_papa": "19.000"
+            },
+             {
+                "nombre": "Burrito - Carne desmechada",
+                "descripcion": "Tortilla mexicana, lechuga tomate, maíz tierno, deliciosas salsas de la casa.",
+                "precio_base": "17.000",
+                "precio_con_papa": "21.000"
+            },
+            {
+                "nombre": "Burrito - Mixto",
+                "descripcion": "Tortilla mexicana, lechuga tomate, maíz tierno, deliciosas salsas de la casa. Pollo desmechado, lomo de cerdo y lomo de res",
+                "precio_base": "17.000",
+                "precio_con_papa": "21.000"
+            },
+            {
+                "nombre": "Burrito - Charro",
+                "descripcion": "Tortilla mexicana, lechuga tomate, maíz tierno, deliciosas salsas de la casa. Carne molida, pico de gallo, jalapeños",
+                "precio_base": "17.000",
+                "precio_con_papa": "21.000"
+            }
+        ]
+    },
+    "bebidas": {
+        "productos": [
+            {
+                "nombre": "Gaseosa 250 ml",
+                "precio_base": "3.000"
+            },
+            {
+                "nombre": "Gaseosa Coca-Cola 237 ml",
+                "precio_base": "3.000"
+            },
+            {
+                "nombre": "Gaseosa Coca-Cola 350 ml",
+                "precio_base": "4.000"
+            },
+            {
+                "nombre": "Gaseosa Coca-Cola 400 ml",
+                "precio_base": "4.500"
+            },
+            {
+                "nombre": "Gaseosa Postobón 400 ml",
+                "precio_base": "4.500"
+            },
+            {
+                "nombre": "Gaseosa Ecolitro",
+                "precio_base": "6.000"
+            },
+            {
+                "nombre": "Gaseosa 1.5 litro",
+                "precio_base": "8.000"
+            },
+             {
+                "nombre": "Mr. Tea personal",
+                "precio_base": "4.000"
+            },
+            {
+                "nombre": "Jugo Hit personal",
+                "precio_base": "4.500"
+            },
+            {
+                "nombre": "Cerveza Heineken",
+                "precio_base": "5.000"
+            },
+            {
+                "nombre": "Granizada Naranja",
+                "precio_base": "7.000"
+            },
+            {
+                "nombre": "Granizada Mandarina",
+                "precio_base": "7.000"
+            },
+            {
+                "nombre": "Granizada Hierbabuena",
+                "precio_base": "7.000"
+            },
+            {
+                "nombre": "Granizada Maracuyá",
+                "precio_base": "8.000"
+            },
+            {
+                "nombre": "Granizada Lulo",
+                "precio_base": "8.000"
+            }
+        ]
+    },
+    "adicionales": {
+        "productos": [
+            {
+                "nombre": "Papas a la francesa 150gr",
+                "precio_base": "7.000"
+            },
+            {
+                "nombre": "Papas a la francesa 300gr",
+                "precio_base": "11.000"
+            },
+            {
+                "nombre": "Pollo",
+                "precio_base": "6.000"
+            },
+            {
+                "nombre": "Lomo de cerdo",
+                "precio_base": "6.000"
+            },
+            {
+                "nombre": "Lomo de res",
+                "precio_base": "7.000"
+            },
+            {
+                "nombre": "Carne desmechada",
+                "precio_base": "8.000"
+            },
+            {
+                "nombre": "Carne de hamburguesa",
+                "precio_base": "9.000"
+            },
+            {
+                "nombre": "Tocineta (X2)",
+                "precio_base": "4.000"
+            },
+            {
+                "nombre": "Queso fundido",
+                "precio_base": "4.000"
+            },
+            {
+                "nombre": "Aros de cebolla (X3)",
+                "precio_base": "6.000"
+            },
+            {
+                "nombre": "Aros de cebolla (X5)",
+                "precio_base": "9.000"
+            }
+        ]
+    }
+}
+  
+  
