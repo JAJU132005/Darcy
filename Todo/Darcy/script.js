@@ -97,6 +97,9 @@ async function loadCategory(category) {
             });
         }
 
+        // Inicializar los botones del carrito después de cargar los productos
+        initializeCartButtons();
+
     } catch (error) {
         console.error('Error al cargar los productos:', error);
     }
@@ -106,4 +109,3 @@ async function loadCategory(category) {
 document.addEventListener('DOMContentLoaded', () => {
     loadCategory('sandwiches');
 });
-  
